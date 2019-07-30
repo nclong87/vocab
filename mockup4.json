@@ -2,72 +2,162 @@
   "id": 7,
   "eNPS": true,
   "questionText": "How likely are you to recommend our company as a place to work?",
-  "fromDate": "2019-06-01",
+  "fromDate": "2018-09-01",
   "toDate": "2019-07-30",
   "data": [
     {
-      "segmentId": 74,
+      "label": "2018-09-01",
       "values": [
         {
-          "label": "2019-06-01",
+          "segmentId": 74,
           "value": 10
         },
         {
-          "label": "2019-06-25",
-          "value": 20
-        },
-        {
-          "label": "2019-07-01",
-          "value": 40
-        },
-        {
-          "label": "2019-07-05",
-          "value": 10
-        },
-        {
-          "label": "2019-07-15",
-          "value": 60
-        },
-        {
-          "label": "2019-07-25",
-          "value": 25
-        },
-        {
-          "label": "2019-07-30",
-          "value": 10
+          "segmentId": 214,
+          "value": 3
         }
       ]
     },
     {
-      "segmentId": 214,
+      "label": "2018-10-01",
       "values": [
         {
-          "label": "2019-06-01",
+          "segmentId": 74,
+          "value": 20
+        },
+        {
+          "segmentId": 214,
           "value": 5
+        }
+      ]
+    },
+    {
+      "label": "2018-11-01",
+      "values": [
+        {
+          "segmentId": 74,
+          "value": 60
         },
         {
-          "label": "2019-06-20",
-          "value": 10
+          "segmentId": 214,
+          "value": 30
+        }
+      ]
+    },
+    {
+      "label": "2018-12-01",
+      "values": [
+        {
+          "segmentId": 74,
+          "value": 90
         },
         {
-          "label": "2019-07-01",
+          "segmentId": 214,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "label": "2019-01-01",
+      "values": [
+        {
+          "segmentId": 74,
           "value": 80
         },
         {
-          "label": "2019-07-10",
+          "segmentId": 214,
+          "value": 40
+        }
+      ]
+    },
+    {
+      "label": "2019-02-01",
+      "values": [
+        {
+          "segmentId": 74,
+          "value": 40
+        },
+        {
+          "segmentId": 214,
+          "value": 60
+        }
+      ]
+    },
+    {
+      "label": "2019-03-01",
+      "values": [
+        {
+          "segmentId": 74,
           "value": 30
         },
         {
-          "label": "2019-07-15",
+          "segmentId": 214,
+          "value": 60
+        }
+      ]
+    },
+    {
+      "label": "2019-04-01",
+      "values": [
+        {
+          "segmentId": 74,
+          "value": 100
+        },
+        {
+          "segmentId": 214,
+          "value": 80
+        }
+      ]
+    },
+    {
+      "label": "2019-05-01",
+      "values": [
+        {
+          "segmentId": 74,
+          "value": 30
+        },
+        {
+          "segmentId": 214,
+          "value": 100
+        }
+      ]
+    },
+    {
+      "label": "2019-06-01",
+      "values": [
+        {
+          "segmentId": 74,
+          "value": 100
+        },
+        {
+          "segmentId": 214,
+          "value": 40
+        }
+      ]
+    },
+    {
+      "label": "2019-07-01",
+      "values": [
+        {
+          "segmentId": 74,
+          "value": 40
+        },
+        {
+          "segmentId": 214,
+          "value": 20
+        }
+      ]
+    },
+    {
+      "label": "2019-07-30",
+      "values": [
+        {
+          "segmentId": 74,
+          "value": 20
+        },
+        {
+          "segmentId": 214,
           "value": 10
-        },
-        {
-          "label": "2019-07-27",
-          "value": 5
-        },
-        {
-          "label": "2019-07-30",
-          "value": 1
         }
       ]
     }
