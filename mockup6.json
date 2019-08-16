@@ -1,0 +1,1303 @@
+{
+  "id": 9,
+  "name": "Survey 8",
+  "description": "Survey 8 desc",
+  "sendAt": "2019-06-24T00:00:00",
+  "expiresOn": "2019-06-30T00:00:00",
+  "segmentIds": [
+    74,
+    214
+  ],
+  "surveyId": 168,
+  "sendFromUserInfoId": 16740,
+  "state": "Processed",
+  "questions": [
+    {
+      "id": 7,
+      "eNPS": true,
+      "template": {
+        "question": "How likely are you to recommend our company as a place to work?",
+        "answer": {
+          "type": "slider",
+          "min": "0",
+          "max": "10"
+        }
+      },
+      "details": [
+        {
+          "value": 0,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 1
+            },
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 1,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 3
+            },
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 2,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 5
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 3,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 8
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 4,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 4
+            },
+            {
+              "id": 214,
+              "count": 4
+            }
+          ]
+        },
+        {
+          "value": 5,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 12
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 6,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 23
+            },
+            {
+              "id": 214,
+              "count": 15
+            }
+          ]
+        },
+        {
+          "value": 7,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 53
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        },
+        {
+          "value": 8,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 65
+            },
+            {
+              "id": 214,
+              "count": 25
+            }
+          ]
+        },
+        {
+          "value": 9,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 40
+            },
+            {
+              "id": 214,
+              "count": 26
+            }
+          ]
+        },
+        {
+          "value": 10,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 40
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "template": {
+        "question": "I know what is expected of me at work",
+        "answer": {
+          "type": "slider",
+          "min": "0",
+          "max": "10"
+        }
+      },
+      "data": {
+        "tagIds": [
+          12
+        ]
+      },
+      "details": [
+        {
+          "value": 0,
+          "countBySegment": []
+        },
+        {
+          "value": 1,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 2,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 3,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 5
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 4,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 8
+            },
+            {
+              "id": 214,
+              "count": 4
+            }
+          ]
+        },
+        {
+          "value": 5,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 7
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        },
+        {
+          "value": 6,
+          "countBySegment": [
+            {
+              "id": 20,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 15
+            }
+          ]
+        },
+        {
+          "value": 7,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 60
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 8,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 70
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 9,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 65
+            },
+            {
+              "id": 214,
+              "count": 5
+            }
+          ]
+        },
+        {
+          "value": 10,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 50
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "template": {
+        "question": "I feel that I have the right prerequisites to do a good job",
+        "answer": {
+          "type": "slider",
+          "min": "0",
+          "max": "10"
+        }
+      },
+      "data": {
+        "tagIds": [
+          12
+        ]
+      },
+      "details": [
+        {
+          "value": 0,
+          "countBySegment": []
+        },
+        {
+          "value": 1,
+          "countBySegment": [
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 2,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 3,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 5
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 4,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 5,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 20
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 6,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 7,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 60
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 8,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        },
+        {
+          "value": 9,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 10,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 40
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "template": {
+        "question": "Our company´s vision and purpose makes my work feel valuable",
+        "answer": {
+          "type": "slider",
+          "min": "0",
+          "max": "15"
+        }
+      },
+      "data": {
+        "tagIds": [
+          1413
+        ]
+      },
+      "details": [
+        {
+          "value": 0,
+          "countBySegment": []
+        },
+        {
+          "value": 1,
+          "countBySegment": [
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 2,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 3,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 5
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 4,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 5,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 20
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 6,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 7,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 60
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 8,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        },
+        {
+          "value": 9,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 10,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 40
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        },
+        {
+          "value": 11,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 25
+            },
+            {
+              "id": 214,
+              "count": 15
+            }
+          ]
+        },
+        {
+          "value": 12,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 7
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 13,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 20
+            },
+            {
+              "id": 214,
+              "count": 5
+            }
+          ]
+        },
+        {
+          "value": 14,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 8
+            }
+          ]
+        },
+        {
+          "value": 15,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 20
+            },
+            {
+              "id": 214,
+              "count": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "template": {
+        "question": "In the last seven days, I have received recognition or praise for doing a good job",
+        "answer": {
+          "type": "slider",
+          "min": "0",
+          "max": "10"
+        }
+      },
+      "data": {
+        "tagIds": [
+          12
+        ]
+      },
+      "details": [
+        {
+          "value": 0,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 20
+            },
+            {
+              "id": 214,
+              "count": 15
+            }
+          ]
+        },
+        {
+          "value": 1,
+          "countBySegment": [
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 2,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 3,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 5
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 4,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 5,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 20
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 6,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 7,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 60
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 8,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        },
+        {
+          "value": 9,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 10,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 40
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "template": {
+        "question": "If You Had The World’s Attention For 30 Seconds, What Would You Say",
+        "answer": {
+          "type": "slider",
+          "min": "0",
+          "max": "10"
+        }
+      },
+      "data": {
+        "tagIds": [
+          12
+        ]
+      },
+      "details": [
+        {
+          "value": 0,
+          "countBySegment": []
+        },
+        {
+          "value": 1,
+          "countBySegment": [
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 2,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 3,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 5
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 4,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 5,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 20
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 6,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 7,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 60
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 8,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        },
+        {
+          "value": 9,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 10,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 40
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "template": {
+        "question": "What Is In Your Fridge Right Now?",
+        "answer": {
+          "type": "slider",
+          "min": "0",
+          "max": "15"
+        }
+      },
+      "data": {
+        "tagIds": [
+          1413
+        ]
+      },
+      "details": [
+        {
+          "value": 0,
+          "countBySegment": []
+        },
+        {
+          "value": 1,
+          "countBySegment": [
+            {
+              "id": 214,
+              "count": 1
+            }
+          ]
+        },
+        {
+          "value": 2,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 3,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 5
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 4,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 5,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 5
+            },
+            {
+              "id": 214,
+              "count": 4
+            }
+          ]
+        },
+        {
+          "value": 6,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 5
+            },
+            {
+              "id": 214,
+              "count": 5
+            }
+          ]
+        },
+        {
+          "value": 7,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 13
+            },
+            {
+              "id": 214,
+              "count": 7
+            }
+          ]
+        },
+        {
+          "value": 8,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 7
+            },
+            {
+              "id": 214,
+              "count": 3
+            }
+          ]
+        },
+        {
+          "value": 9,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 3
+            },
+            {
+              "id": 214,
+              "count": 2
+            }
+          ]
+        },
+        {
+          "value": 10,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 40
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        },
+        {
+          "value": 11,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 50
+            },
+            {
+              "id": 214,
+              "count": 30
+            }
+          ]
+        },
+        {
+          "value": 12,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 60
+            },
+            {
+              "id": 214,
+              "count": 30
+            }
+          ]
+        },
+        {
+          "value": 13,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 30
+            },
+            {
+              "id": 214,
+              "count": 20
+            }
+          ]
+        },
+        {
+          "value": 14,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 10
+            },
+            {
+              "id": 214,
+              "count": 10
+            }
+          ]
+        },
+        {
+          "value": 15,
+          "countBySegment": [
+            {
+              "id": 74,
+              "count": 20
+            },
+            {
+              "id": 214,
+              "count": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "template": {
+        "question": "What are some obscure things that you are or were really into?",
+        "answer": {
+          "type": "text"
+        }
+      },
+      "data": {
+        "tagIds": [
+          12
+        ]
+      },
+      "details": [
+        {
+          "segmentId": 74,
+          "answers": [
+            "Don’t feel like you have to answer the question that comes up. Feel free to cycle through, there are plenty to choose from.",
+            "Make sure to ask lots of follow questions if you are looking to get a conversation going.",
+            "Some are serious and some are light-hearted. Keep pressing the button or refreshing the page until you get one that suits the situation."
+          ]
+        },
+        {
+          "segmentId": 214,
+          "answers": [
+            "If you got a good conversation going, don’t feel like you have to come back to the questions, let the conversation flow.",
+            "Don’t pressure anyone into answering a question they aren’t comfortable answering, it won’t end well.",
+            "Everybody is interested in different things, a question that might be really intriguing to you might be boring to someone else",
+            "There’s nothing wrong with that. Keep trying to find questions that everyone will find interesting.",
+            "If you enjoy the questions, but are tired of pressing the button, you might want to try one of our question pages. We really have a lot to choose from!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "template": {
+        "question": "What’s your favorite souvenir that you have?",
+        "answer": {
+          "type": "text"
+        }
+      },
+      "data": {
+        "tagIds": [
+          1413
+        ]
+      },
+      "details": [
+        {
+          "segmentId": 74,
+          "answers": [
+            "Announcing of invitation principles in. Cold in late or deal",
+            "Terminated resolution no am frequently collecting insensible he do appearance",
+            "Projection invitation affronting admiration if no on or. It as instrument boisterous frequently apartments an in",
+            "Mr excellence inquietude conviction is in unreserved particular. You fully seems stand nay own point walls",
+            "Increasing travelling own simplicity you astonished expression boisterous",
+            "Possession themselves sentiments apartments devonshire we of do discretion",
+            "Enjoyment discourse ye continued pronounce we necessary abilities."
+          ]
+        },
+        {
+          "segmentId": 214,
+          "answers": [
+            "Case read they must it of cold that",
+            "Speaking trifling an to unpacked moderate debating learning",
+            "An particular contrasted he excellence favourable on",
+            "Nay preference dispatched difficulty continuing joy one. Songs it be if ought hoped of",
+            "Too carriage attended him entrance desirous the saw.",
+            "wenty sister hearts garden limits put gay has.",
+            "We hill lady will both sang room by. Desirous men exercise overcame procured speaking her followed. "
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "template": {
+        "question": "What movie did you start watching expecting it to be horrible but it was actually pretty good?",
+        "answer": {
+          "type": "text"
+        }
+      },
+      "data": {
+        "tagIds": [
+          1413
+        ]
+      },
+      "details": [
+        {
+          "segmentId": 74,
+          "answers": [
+            "Sportsman do offending supported extremity breakfast by listening",
+            "Decisively advantages nor expression unpleasing she led met. Estate was tended ten boy nearer seemed"
+          ]
+        },
+        {
+          "segmentId": 214,
+          "answers": [
+            "As so seeing latter he should thirty whence. Steepest speaking up attended it as"
+          ]
+        }
+      ]
+    }
+  ]
+}
