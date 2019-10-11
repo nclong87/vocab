@@ -1,0 +1,267 @@
+{
+  "questions": [
+    {
+      "questionId": 678,
+      "tagIds": [
+        12
+      ],
+      "isNPS": false,
+      "questionTemplate": {
+        "question": "How happy are you with my competence?",
+        "answer": {
+          "type": "slider",
+          "min": 0,
+          "max": 10
+        }
+      },
+      "details": [
+        {
+          "answerRoleDetails": [
+            {
+              "role": "PEER",
+              "avgValue": 6.8,
+              "values": [
+                {
+                  "value": 5,
+                  "count": 1
+                },
+                {
+                  "value": 6,
+                  "count": 1
+                },
+                {
+                  "value": 7,
+                  "count": 1
+                },
+                {
+                  "value": 9,
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "role": "MANAGER",
+              "avgValue": 4,
+              "values": [
+                {
+                  "value": 4,
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "role": "SELF",
+              "avgValue": 10,
+              "values": [
+                {
+                  "value": 10,
+                  "count": 1
+                }
+              ]
+            }
+          ],
+          "segmentDetails": [],
+          "totalDetails": []
+        }
+      ]
+    },
+    {
+      "questionId": 680,
+      "tagIds": [
+        20
+      ],
+      "isNPS": false,
+      "questionTemplate": {
+        "question": "How many times have I helped you this week?",
+        "answer": {
+          "type": "number",
+          "min": 0,
+          "max": 0
+        }
+      },
+      "details": [
+        {
+          "answerRoleDetails": [
+            {
+              "role": "PEER",
+              "avgValue": 5,
+              "values": [
+                {
+                  "value": 4,
+                  "count": 2
+                },
+                {
+                  "value": 6,
+                  "count": 1
+                },
+                {
+                  "value": 7,
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "role": "MANAGER",
+              "avgValue": 4,
+              "values": [
+                {
+                  "value": 4,
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "role": "SELF",
+              "avgValue": 5,
+              "values": [
+                {
+                  "value": 5,
+                  "count": 1
+                }
+              ]
+            }
+          ],
+          "segmentDetails": [],
+          "totalDetails": []
+        }
+      ]
+    },
+    {
+      "questionId": 681,
+      "tagIds": [
+        14
+      ],
+      "isNPS": false,
+      "questionTemplate": {
+        "question": "Which one is the best cultural area?",
+        "answer": {
+          "type": "options",
+          "min": 0,
+          "max": 0
+        }
+      },
+      "details": [
+        {
+          "answerRoleDetails": [
+            {
+              "role": "PEER",
+              "avgValue": null,
+              "values": [
+                {
+                  "value": "Trust",
+                  "count": 2
+                },
+                {
+                  "value": "Engagement",
+                  "count": 1
+                },
+                {
+                  "value": "Businessmanship",
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "role": "MANAGER",
+              "avgValue": null,
+              "values": [
+                {
+                  "value": "Trust",
+                  "count": 2
+                },
+                {
+                  "value": "Collaboration",
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "role": "SELF",
+              "avgValue": null,
+              "values": [
+                {
+                  "value": "Engagement",
+                  "count": 1
+                }
+              ]
+            }
+          ],
+          "segmentDetails": [],
+          "totalDetails": []
+        }
+      ]
+    },
+    {
+      "questionId": 681,
+      "tagIds": [
+        14
+      ],
+      "isNPS": false,
+      "questionTemplate": {
+        "question": "Please give a tip of advice?",
+        "answer": {
+          "type": "text",
+          "min": 0,
+          "max": 0
+        }
+      },
+      "details": [
+        {
+          "answerRoleDetails": [
+            {
+              "role": "PEER",
+              "avgValue": null,
+              "values": [
+                {
+                  "value": "Be present when you are here",
+                  "count": 1
+                },
+                {
+                  "value": "Call me sometime",
+                  "count": 1
+                },
+                {
+                  "value": "Communicate more...",
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "role": "MANAGER",
+              "avgValue": null,
+              "values": [
+                {
+                  "value": "Be more polite...",
+                  "count": 1
+                },
+                {
+                  "value": "Run for President!",
+                  "count": 1
+                }
+              ]
+            },
+            {
+              "role": "SELF",
+              "avgValue": null,
+              "values": [
+                {
+                  "value": "Communicate more...",
+                  "count": 1
+                }
+              ]
+            }
+          ],
+          "segmentDetails": [],
+          "totalDetails": []
+        }
+      ]
+    }
+  ],
+  "surveyId": 290,
+  "isAnonymous": false,
+  "numberOfRequestsSent": 4,
+  "numberRequestsAnswered": 4,
+  "percentageAnswered": 100,
+  "fromDate": "2019-04-11T00:00:00",
+  "toDate": "2019-10-12T00:00:00"
+}
