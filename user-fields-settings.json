@@ -1,0 +1,155 @@
+{
+  "userAttributes": [
+    {
+      "name": "Username",
+      "isMainAttribute": true,
+      "type": "string",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": false
+      },
+      "order": 1,
+      "id": 1
+    },
+    {
+      "name": "Email address",
+      "isMainAttribute": true,
+      "type": "email",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": true
+      },
+      "order": 2,
+      "id": 2
+    },
+    {
+      "name": "First Name",
+      "isMainAttribute": true,
+      "type": "string",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": true
+      },
+      "order": 3,
+      "id": 3
+    },
+    {
+      "name": "Company name",
+      "isMainAttribute": true,
+      "type": "string",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": true,
+        "isFilterAttribute": false
+      },
+      "order": 4,
+      "id": 4
+    },
+    {
+      "name": "Country",
+      "isMainAttribute": true,
+      "type": "string",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": false,
+        "isFilterAttribute": true
+      },
+      "order": 5,
+      "id": 5
+    },
+    {
+      "name": "City",
+      "isMainAttribute": true,
+      "type": "string",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": true,
+        "isFilterAttribute": true
+      },
+      "order": 6,
+      "id": 6
+    },
+    {
+      "name": "Segments",
+      "isMainAttribute": true,
+      "type": "array",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": true
+      },
+      "order": 7,
+      "id": 7
+    },
+    {
+      "name": "Default segment",
+      "isMainAttribute": true,
+      "type": "number",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": false
+      },
+      "order": 8,
+      "id": 8
+    },
+    {
+      "name": "Interest",
+      "isMainAttribute": false,
+      "type": "string",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": true,
+        "isFilterAttribute": true
+      },
+      "order": 9,
+      "id": 9
+    },
+    {
+      "name": "Personal Skills",
+      "isMainAttribute": false,
+      "type": "string",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": false,
+        "isFilterAttribute": false
+      },
+      "order": 10,
+      "id": 10
+    },
+    {
+      "name": "Professional Skills",
+      "isMainAttribute": false,
+      "type": "string",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": true,
+        "isFilterAttribute": false
+      },
+      "order": 11,
+      "id": 11
+    },
+    {
+      "name": "Linkedin Profile",
+      "isMainAttribute": false,
+      "type": "link",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": true,
+        "isFilterAttribute": false
+      },
+      "order": 12,
+      "id": 12
+    },
+    {
+      "name": "Private email",
+      "isMainAttribute": false,
+      "type": "email",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": false,
+        "isFilterAttribute": false
+      },
+      "order": 13,
+      "id": 13
+    }
+  ]
+}
