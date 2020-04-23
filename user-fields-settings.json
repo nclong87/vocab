@@ -34,6 +34,29 @@
       "id": 3
     },
     {
+      "name": "Last Name",
+      "isMainAttribute": true,
+      "type": "string",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": true
+      },
+      "order": 4,
+      "id": 4
+    },
+    {
+      "name": "Job title",
+      "isMainAttribute": true,
+      "type": "string",
+      "instanceId": 41,
+      "settings": {
+        "isProfileAttribute": true,
+        "isFilterAttribute": false
+      },
+      "order": 5,
+      "id": 5
+    },
+    {
       "name": "Company name",
       "isMainAttribute": true,
       "type": "string",
@@ -42,8 +65,8 @@
         "isProfileAttribute": true,
         "isFilterAttribute": false
       },
-      "order": 4,
-      "id": 4
+      "order": 6,
+      "id": 6
     },
     {
       "name": "Country",
@@ -54,8 +77,8 @@
         "isProfileAttribute": false,
         "isFilterAttribute": true
       },
-      "order": 5,
-      "id": 5
+      "order": 7,
+      "id": 7
     },
     {
       "name": "City",
@@ -66,8 +89,8 @@
         "isProfileAttribute": true,
         "isFilterAttribute": true
       },
-      "order": 6,
-      "id": 6
+      "order": 8,
+      "id": 8
     },
     {
       "name": "Segments",
@@ -77,8 +100,8 @@
       "settings": {
         "isProfileAttribute": true
       },
-      "order": 7,
-      "id": 7
+      "order": 9,
+      "id": 9
     },
     {
       "name": "Default segment",
@@ -88,8 +111,8 @@
       "settings": {
         "isProfileAttribute": false
       },
-      "order": 8,
-      "id": 8
+      "order": 10,
+      "id": 10
     },
     {
       "name": "Interest",
@@ -100,8 +123,8 @@
         "isProfileAttribute": true,
         "isFilterAttribute": true
       },
-      "order": 9,
-      "id": 9
+      "order": 11,
+      "id": 11
     },
     {
       "name": "Personal Skills",
@@ -112,8 +135,8 @@
         "isProfileAttribute": false,
         "isFilterAttribute": false
       },
-      "order": 10,
-      "id": 10
+      "order": 12,
+      "id": 12
     },
     {
       "name": "Professional Skills",
@@ -124,8 +147,8 @@
         "isProfileAttribute": true,
         "isFilterAttribute": false
       },
-      "order": 11,
-      "id": 11
+      "order": 13,
+      "id": 13
     },
     {
       "name": "Linkedin Profile",
@@ -136,8 +159,8 @@
         "isProfileAttribute": true,
         "isFilterAttribute": false
       },
-      "order": 12,
-      "id": 12
+      "order": 14,
+      "id": 14
     },
     {
       "name": "Private email",
@@ -148,8 +171,8 @@
         "isProfileAttribute": false,
         "isFilterAttribute": false
       },
-      "order": 13,
-      "id": 13
+      "order": 15,
+      "id": 15
     }
   ]
 }
