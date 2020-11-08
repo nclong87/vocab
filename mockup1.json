@@ -1,1 +1,100 @@
-{"broadcast":{"id":"f0a4ab77-3c48-4880-dab9-08d7db0497f1","externalBroadcastId":"c1ecfe47-7491-462f-b16b-fba7471ad161","broadcasterUserInfoId":18359,"instanceId":41,"segmentIds":[217,358],"startDate":null,"state":"Initiated","externalData":{"id":"c1ecfe47-7491-462f-b16b-fba7471ad161","ingestChannel":"67a1dc78-4d87-9f8e-5148-c7bfa1ceb89c","length":7,"preview":"https://preview.bambuser.io/live/eyJyZXNvdXJjZVVyaSI6Imh0dHBzOlwvXC9jZG4uYmFtYnVzZXIubmV0XC9icm9hZGNhc3RzXC9jMWVjZmU0Ny03NDkxLTQ2MmYtYjE2Yi1mYmE3NDcxYWQxNjEifQ==/preview.jpg","resourceUri":"https://cdn.bambuser.net/broadcasts/c1ecfe47-7491-462f-b16b-fba7471ad161?da_signature_method=HMAC-SHA256&da_id=9e1b1e83-657d-7c83-b8e7-0b782ac9543a&da_timestamp=1586315332&da_static=1&da_ttl=0&da_signature=639c87082da766cce943504176f5ec6fd853c3cce5679d98bee832a829e2668e","type":"archived","author":"","clientVersion":"webrtc","created":1586314974,"tags":[],"title":"","height":360,"widht":0}}}
+{
+  "id": 2,
+  "name": "Feedback",
+  "description": "....add description here....",
+  "type": "Feedback",
+  "questions": [
+    {
+      "id": 2,
+      "question": "På en skala 1 - 10 (där tio är toppenbra), hur effektivt var ert möte?",
+      "caption": "Effektivitet",
+      "settings": {
+        "min": 1,
+        "max": 10,
+        "minLabel": "No",
+        "maxLabel": "Yes",
+        "isNPS": false
+      },
+      "answerSummary": {
+        "avgValue": 3.2,
+        "count": 4,
+        "values": [
+          1,
+          1,
+          3,
+          5
+        ]
+      },
+      "type": "Slider",
+      "options": [],
+      "isQuiz": false
+    },
+    {
+      "id": 3,
+      "question": "På en skala 1 - 10 (där tio är toppenbra), hur engagerande var ert möte?",
+      "caption": "Engagemang",
+      "settings": {
+        "min": 1,
+        "max": 10,
+        "minLabel": "No",
+        "maxLabel": "Yes",
+        "isNPS": false
+      },
+      "answerSummary": {
+        "avgValue": 7.2,
+        "count": 3,
+        "values": [
+          6,
+          7,
+          8
+        ]
+      },
+      "type": "Slider",
+      "options": [],
+      "isQuiz": false
+    },
+    {
+      "id": 4,
+      "question": "Hur sannolikt (på en skala 0 - 10) är det att du skulle rekommendera Meeting Maker till en vän eller kollega?",
+      "caption": "NPS",
+      "settings": {
+        "min": 0,
+        "max": 10,
+        "minLabel": "No",
+        "maxLabel": "Yes",
+        "isNPS": true
+      },
+      "type": "Slider",
+      "options": [],
+      "isQuiz": false,
+      "answerSummary": {
+        "avgValue": 7.2,
+        "count": 3,
+        "values": [
+          6,
+          7,
+          8
+        ],
+        "nps": 67
+      }
+    },
+    {
+      "id": 5,
+      "question": "Finns det något som du skulle vilja att vi förbättrar i tjänsten Meeting Maker?",
+      "caption": "NPS",
+      "settings": null,
+      "type": "TextInput",
+      "options": [],
+      "isQuiz": false,
+      "answerSummary": {
+        "avgValue": null,
+        "count": 3,
+        "values": [
+          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text",
+          " It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+          "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        ]
+      }
+    }
+  ]
+}
